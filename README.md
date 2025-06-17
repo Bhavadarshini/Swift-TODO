@@ -24,4 +24,5 @@ cd Swift-TODO
 open TODOAPP.xcodeproj
 
 # 4. Build & Run
+Run the app with the run symbol present at the top left and view the app in stimulator.
 
