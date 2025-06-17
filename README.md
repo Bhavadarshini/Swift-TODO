@@ -18,9 +18,10 @@ A clean, modern To-Do list app built using SwiftUI. Fully local, gesture-driven,
 git clone https://github.com/Bhavadarshini/Swift-TODO.git
 
 # 2. Navigate into the project
-cd SwifT-TODO
+cd Swift-TODO
 
 # 3. Open in Xcode
 open TODOAPP.xcodeproj
 
 # 4. Build & Run
+
