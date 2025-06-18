@@ -13,7 +13,7 @@ A clean, modern To-Do list app built using SwiftUI. Fully local, gesture-driven,
 
 ## Installation
 
-In your terminal run the following commands
+In your terminal run the following commands:
 
 ```bash
 # 1. Clone the repository
