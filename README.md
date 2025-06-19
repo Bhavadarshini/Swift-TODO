@@ -3,7 +3,7 @@
 A clean, modern To-Do list app built using SwiftUI. Fully local, gesture-driven, and minimal by design. Built during my internship at **Sedin Technologies**.
 
 
-## Requirements
+## Requirements:
 
 - macOS 13.0+
 - Xcode 15.0+
@@ -11,7 +11,7 @@ A clean, modern To-Do list app built using SwiftUI. Fully local, gesture-driven,
 - Swift 5.9+
 
 
-## Installation
+## Installation:
 
 In your terminal run the following commands:
 
