@@ -22,7 +22,7 @@ git clone https://github.com/Bhavadarshini/Swift-TODO.git
 # 2. Navigate into the project
 cd Swift-TODO
 
-# 3. Open in Xcode
+# 3. Open in Xcode(if available)
 open TODOAPP.xcodeproj
 
 # 4. Build & Run
