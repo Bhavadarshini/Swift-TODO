@@ -1,6 +1,6 @@
 # SwiftUI To-Do Planner App
 
-A clean, modern To-Do list app built using SwiftUI. Fully local, gesture-driven, and minimal by design. Built during my internship at **Sedin Technologies**.
+A clean, modern To-Do list app built using SwiftUI. Fully local, gesture-driven, and minimal by design. Built as my first app during my internship at **Sedin Technologies**.
 
 
 ## Requirements:
