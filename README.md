@@ -17,13 +17,6 @@ The given image is a screenshot of the app:
 ![Swift TODO Screenshot](Swift-TODO.png)
 
 
-## Screenshot:
-
-The given image is a screenshot of the app:
-
-![Swift TODO Screenshot](Swift-TODO.png)
-
-
 ## Installation:
 
 In your terminal run the following commands:
