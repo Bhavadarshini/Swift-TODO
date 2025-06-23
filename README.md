@@ -10,6 +10,12 @@ A clean, modern To-Do list app built using SwiftUI. Fully local, gesture-driven,
 - iOS 16.0+ (Simulator or real device)
 - Swift 5.9+
 
+## Screenshot:
+
+The given image is a screenshot of the app:
+
+![Swift TODO Screenshot](Swift-TODO.png)
+
 
 ## Screenshot:
 
